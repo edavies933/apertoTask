@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApertoTask</string>
+
+    <string name="consumer_key" translatable="false">qTwec9GNiOSXvMnkDbzzNQQEd</string>
+    <string name="consumer_secret" translatable="false">zTH3t7Li6nrZ38cZb4SpdZT5gA5KAVDCXEK88pKfW3zUmWZ59U</string>
+
+</resources>
